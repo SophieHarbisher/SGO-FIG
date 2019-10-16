@@ -1,7 +1,7 @@
 # SGO-FIG
 
-Repository for the paper **High dimensional optimal design using the Fisher information gain and gradient descent** by [Dennis Prangle](github.com/dennisprangle/), [Colin Gillespie](github.com/csgillespie/), \& [Sophie Harbisher](github.com/SophieHarbisher).
-The paper can be found on [arXiv](.).
+Repository for the paper **High dimensional optimal design using the Fisher information gain and gradient descent** by [Dennis Prangle](https://github.com/dennisprangle/), [Colin Gillespie](https://github.com/csgillespie/), \& [Sophie Harbisher](https://github.com/SophieHarbisher).
+The paper can be found on [arXiv](https://arxiv.org/abs/1904.05703).
 
 ### Abstract
 
